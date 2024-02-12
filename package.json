@@ -1,0 +1,15 @@
+{
+  "name": "image-parser",
+  "version": "1.0.0",
+  "description": "Парсер изображений",
+  "main": "index.js",
+  "author": "Qiota",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,json}\""
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.9"
+  }
+}
